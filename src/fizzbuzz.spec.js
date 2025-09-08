@@ -15,3 +15,7 @@ test('debería retornar Fizz para múltiplos de 3', () => {
 test('debería retornar Fizz para múltiplos de 15', () => {
     expect(fizzBuzz(3)).toBe('Fizz');
 });
+
+test('debería retornar Buzz para múltiplos de 5', () => {
+    expect(fizzBuzz(5)).toBe('Buzz');
+});
