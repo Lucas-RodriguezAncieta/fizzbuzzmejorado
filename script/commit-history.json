@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c8c25c7d4a24eaa1e8ee5c9445574fd5c9491317",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-08T13:56:30.000Z",
       "message": "Generalizar retorno a string para números que no son múltiplos de 3 ni 5",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/c8c25c7d4a24eaa1e8ee5c9445574fd5c9491317"
     },
     "stats": {
       "total": 8,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-08T14:01:55.000Z",
+      "message": "Implementar retorno de 'Fizz' para múltiplos de 3",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
