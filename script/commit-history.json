@@ -114,17 +114,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4b3f1a498f3a608ad00191ff8b6598455e535f31",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-08T14:21:56.000Z",
       "message": "Feat: Implementar retorno de 'FizzBuzz' para múltiplos de 3 y 5",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/4b3f1a498f3a608ad00191ff8b6598455e535f31"
     },
     "stats": {
       "total": 22,
       "additions": 17,
       "deletions": 5,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-08T14:24:59.000Z",
+      "message": "Refactor: La logica de fizzBuzz asegurando orden correcto de validaciones",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 11,
+      "deletions": 11,
       "date": "2025-09-08"
     },
     "coverage": 100,
