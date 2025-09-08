@@ -133,17 +133,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8a0d547058b4ffc37445bf2674c5fe103f84d018",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-08T14:24:59.000Z",
       "message": "Refactor: La logica de fizzBuzz asegurando orden correcto de validaciones",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/8a0d547058b4ffc37445bf2674c5fe103f84d018"
     },
     "stats": {
       "total": 22,
       "additions": 11,
       "deletions": 11,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-08T14:27:58.000Z",
+      "message": "Feat : implementacion de funcionalidades al index",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+    },
+    "stats": {
+      "total": 47,
+      "additions": 29,
+      "deletions": 18,
       "date": "2025-09-08"
     },
     "coverage": 100,
