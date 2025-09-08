@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "f95bfc63aafecfed53a255f16618ed95d230acd6",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-08T13:52:35.000Z",
       "message": "Implementar código mínimo para pasar el test del número 1",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/f95bfc63aafecfed53a255f16618ed95d230acd6"
     },
     "stats": {
       "total": 2143,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-08T13:56:30.000Z",
+      "message": "Generalizar retorno a string para números que no son múltiplos de 3 ni 5",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzmejorado/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 5,
+      "deletions": 3,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

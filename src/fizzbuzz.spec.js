@@ -1,6 +1,9 @@
-// fizzbuzz.spec.js
 const fizzBuzz = require('./fizzbuzz');
 
 test('debería retornar 1 para el número 1', () => {
     expect(fizzBuzz(1)).toBe('1');
+});
+
+test('debería retornar 4 para el número 4', () => {
+    expect(fizzBuzz(4)).toBe('4');
 });
